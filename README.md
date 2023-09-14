@@ -1,2 +1,3 @@
 # 1st-respository
-geting to know GitHard
+Geting to know GitHard
+My 1st respositiry 
